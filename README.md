@@ -38,7 +38,19 @@
 
 ### python_restful_api.py: 利用Python和Flask快速开发RESTful API
 
+### python_restful_api.py: RESTful API进阶: 连接数据库、添加参数、Token认证、返回代码说明等
+
 ### python_context.py: With语句和上下文管理器ContextManager
+
+### python_flask.py: Flask相关说明
+
+### MyShow: 玩点好玩的--知乎全部话题关系可视化
+
+### python_markov_chain.py: 玩点好玩的--使用马尔可夫模型自动生成文章
+
+### python_wechat.py: 玩点好玩的--自己写一个微信小助手
+
+### python_csv.py: Python中CSV文件的简单读写
 ===================================================================================================
 
 ### 您可以fork该项目, 并在修改后提交Pull request
